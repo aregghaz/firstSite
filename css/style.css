@@ -1,0 +1,39 @@
+
+.test div {
+    border:1px solid red;
+}
+
+#header{
+    background-color: #333333;
+    color:#999999;
+    margin-bottom: 15px;
+}
+#header p{
+    padding-top: 10px;
+}
+#header .navbar-nav>li>.dropdown-menu {
+    width: 300px;
+    padding: 20px;
+
+}
+/*#header .btn {
+
+    padding: 8px 12px;
+  border-radius: 0px;
+  background-color: #000000;
+  color:white;
+  border-width: 0px;
+}*/
+/*                   /////////search///////////////////*/
+#search #sel1{
+    width:200px;
+}
+#search {
+    margin-bottom: 15px;
+}
+
+/*
+.row {
+    max-height: 1072px;
+    overflow: scroll;
+}
